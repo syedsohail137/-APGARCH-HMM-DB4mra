@@ -1,6 +1,6 @@
 # High-Frequency Multi-Resolution Trading Pipeline
 
-A zero-dependency, standalone modern C++ translation of a private institutional forecasting engine originally implemented across 6 linked `Excel 2010 (*.xlsm)` VBA modules. This engine couples statistical economics with discrete signal processing to generate 1-step ahead execution targets.
+ This engine couples statistical economics with discrete signal processing to generate 1-step ahead execution targets.
 
 ## ⚙️ Mathematical Engine Architecture
 
