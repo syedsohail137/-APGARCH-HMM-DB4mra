@@ -1,0 +1,38 @@
+Actual_VWAP,HMM_Forecast,Raw_Residual,Wavelet_Clean_Cycle,Phasor_Corrected_Target
+120.00000,120.00000,0.00000,-0.04259,119.79363
+>> Initializing Pipeline Engine...
+>> Warning: input_vwap.csv not found or insufficient. Generating artificial vector (256 nodes)...
+>> Processing Multi-Resolution Data Array Stack...
+
+=======================================================================
+             MULTI-RESOLUTION ENGINE CORE DIAGNOSTIC REPORT            
+=======================================================================
+1. WAVELET FILTERING EFFICIENCY METRICS
+   Signal-to-Noise Ratio (SNR)        : -0.2464 dB
+   Model Forecast R2 Variance  (R2)   : 0.9207
+   Hurst Fractality Exponent   (H)    : 0.7527
+
+2. BEDROSIAN VALIDATION PROFILE
+   Bedrosian Separation Score         : 0.9980 (CLEAN INDEPENDENCE)
+
+3. ADVANCED PHASE KINETICS & ALGORITHMIC SIGNALS
+   Phasor Aligned Output Target (T+1) : 124.9680
+   Regime Change Notification         : Stable (No Shift Predicted)
+   ALGORITHMIC TRADING SIGNAL         : ALPHA DIRECTIONAL SELL - EXHAUSTION IMPULSE
+
+4. HIGH-FREQUENCY ALERT ENGINE
+   L1 Noise Shock Alert Level         : POSITIVE MICRO-IMPULSE SHOCK: Sudden upward liquidity surge!
+
+=======================================================================
+       6. MR. HIZURU KONISHI OPTIMAL LIQUIDITY-LAG ROUTING SCHEDULE    
+=======================================================================
+   Calculated Liquidity Lag Factor : 7.7303%
+   Operational Profile Tracking    : [Standard Volatility Profile]
+
+   Interval T1 (Open Peak)  :  28094 shares
+   Interval T2 (Post-Peak)  :  16636 shares
+   Interval T3 (Midday Lull) :   8119 shares
+   Interval T4 (Early Aft)  :   7104 shares
+   Interval T5 (Pre-Close)  :  16636 shares
+   Interval T6 (Close Peak)  :  23411 shares
+=======================================================================
